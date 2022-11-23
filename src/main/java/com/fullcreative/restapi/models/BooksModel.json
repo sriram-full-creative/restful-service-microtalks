@@ -1,0 +1,65 @@
+[
+	{
+		"author": "Chinua Achebe",
+		"language": "English",
+		"pages": 209,
+		"title": "Things Fall Apart",
+		"releaseYear": 1958
+	},
+	{
+		"author": "Hans Christian Andersen",
+		"language": "Danish",
+		"pages": 784,
+		"title": "Fairy tales",
+		"releaseYear": 1836
+	},
+	{
+		"author": "Dante Alighieri",
+		"language": "Italian",
+		"pages": 928,
+		"title": "The Divine Comedy",
+		"releaseYear": 1315
+	},
+	{
+		"author": "Jane Austen",
+		"language": "English",
+		"pages": 226,
+		"title": "Pride and Prejudice",
+		"releaseYear": 1813
+	},
+	{
+		"author": "Samuel Beckett",
+		"language": "French, English",
+		"pages": 256,
+		"title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+		"releaseYear": 1952
+	},
+	{
+		"author": "Giovanni Boccaccio",
+		"language": "Italian",
+		"pages": 1024,
+		"title": "The Decameron",
+		"releaseYear": 1351
+	},
+	{
+		"author": "Jorge Luis Borges",
+		"language": "Spanish",
+		"pages": 224,
+		"title": "Ficciones",
+		"releaseYear": 1965
+	},
+	{
+		"author": "Emily Bront\u00eb",
+		"language": "English",
+		"pages": 342,
+		"title": "Wuthering Heights",
+		"releaseYear": 1847
+	},
+	{
+		"author": "Albert Camus",
+		"language": "French",
+		"pages": 185,
+		"title": "The Stranger",
+		"releaseYear": 1942
+	}
+]
